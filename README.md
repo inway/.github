@@ -1,1 +1,1 @@
-# .github
+# GitHub profile repository
